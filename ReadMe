@@ -1,0 +1,10 @@
+Zach Jordan:
+
+
+TGA image manipulation of RGB values ran in the terminal. Build project then execute commands.
+
+ex input:
+
+    ./project2.out output/ input/circles.tga multiply input/layer1.tga
+	./project2.out output/part12.tga input/layer1.tga flip
+	./project2.out output/part13.tga input/layer1.tga subtract input/layer2.tga
